@@ -6,3 +6,5 @@ Simple scripts for extracting EWDs from the [Edsger W. Dijkstra Archive](https:/
 - `entries.json`: A json list of EWDs. Each entry contains the EWD title and document link.
 - `download_ewd_indexes.sh`: Downloads every index linked in `ewds.txt`.
 - `ewd_html_to_json.sh`: Extracts and folds every EWD entry into a single json file; see `entries.json`. 
+
+See `ewds.md` for a markdown-rendered list of documents. 
